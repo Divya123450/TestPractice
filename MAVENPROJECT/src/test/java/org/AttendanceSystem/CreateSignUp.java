@@ -20,7 +20,7 @@ public class CreateSignUp {
 	}
 	
 	@Test
-	public void test2() {
+	public void test20() {
 		
 		System.out.println("test2 --> PraticeTest1");
 	}
